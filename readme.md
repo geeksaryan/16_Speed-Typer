@@ -4,7 +4,7 @@ Speed Typer is a fun and interactive typing game where you test your typing spee
 
 ## Live Preview
 
-You can try the game live [here](#).
+You can try the game live [here](https://speed-typer-rho.vercel.app/).
 
 ## Screenshots
 
